@@ -24,15 +24,24 @@ How can financial outcomes for women be improved through increasing diversity an
 - Skills career path assessment to match interest with career i.e. Passion Explorer
 - Onboarding page
 - Success stories
-- Local Events
+- Local Events~~
 - Discover what you are worth.
 	- Directly compare current career to the one you are viewing.
 	- See what the average salary is for the role you are working.
 - Partial complete profiles
+	- Have quiz be an optional step in profile creation.
+- Achievements / growth
+	- Goal Setter
 
-
+### Features:
+#### listed by priority
+1. Passion explorer
+2. Goal setter
+3. Connect with a mentor
+4. Success story
 ---
 ### Related Links:
 - [[Requirements for GOVHack]]
 - [[GovHack Actions to take]]
 - [[GovHack video considerations]]
+- [By Industry](https://data.gov.au/data/dataset/07b51b39-254a-4177-8b4c-497f17eddb80/resource/4965b0a0-6202-46f9-b2a4-ae310cb6377f/download/ts21individual05sexstateterritorybroadindustry.xlsx) 
