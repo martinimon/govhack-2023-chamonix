@@ -39,3 +39,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyGovProject.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/nyowi/OneDrive/Desktop/Misc/Personal/govhack-2023-chamonix/MyGovProject/MyGovProject/Views/JourneyView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyGovProject.Views.JourneyView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\JourneyView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\JourneyView.xaml
+
+[C:/Users/nyowi/OneDrive/Desktop/Misc/Personal/govhack-2023-chamonix/MyGovProject/MyGovProject/Views/OnboardingView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyGovProject.Views.OnboardingView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\OnboardingView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\OnboardingView.xaml
