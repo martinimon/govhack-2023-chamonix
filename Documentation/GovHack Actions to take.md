@@ -15,5 +15,6 @@ A checklist for [describe the purpose of the checklist].
 ---
 
 ### Related Links:
-[[Requirements for GOVHack]]
-[[GovHack  Project Overview]]
+- [[Requirements for GOVHack]]
+- [[GovHack  Project Overview]]
+- [[GovHack video considerations]]

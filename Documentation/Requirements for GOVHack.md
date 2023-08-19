@@ -46,5 +46,7 @@ A checklist for [describe the purpose of the checklist].
 
 ### Related Links:
 - [[GovHack  Project Overview]]
+- [[GovHack Actions to take]]
+- [[GovHack video considerations]]
 
 
