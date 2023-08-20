@@ -1,4 +1,6 @@
 # Challenge Ideas
+These challenges are ones that stood out too us. 
+
 ## Diversity in IP Rights System
 **Eligibility: Must reference the IP Report - Australian IP Report 2023 | IP. In particular Chapter 7 – Diversity and Innovation.**
 Out of the top applicants for patents, trade marks and designs to IP Australia, how can we find out how many are female led, have female friendly hiring policies or otherwise have positive gender/sexual diversity policies, and what industries/technologies are they active in?
@@ -6,6 +8,9 @@ Each year, IP Australia publishes the IP Report - Australian IP Report 2023 | IP
 For GovHackers this year we would like to draw your attention to Chapter 7 – Diversity and Innovation. We have published some insights about our knowledge of diversity and innovation.
 [Challenge](https://hackerspace.govhack.org/challenges/diversity_in_ip_rights_system)
 [Data](https://data.gov.au/dataset/ds-dga-49017fd0-e7be-4fc0-88c8-046fc366d980/details?q=)
+
+### Notes:
+This challenge is too specific to IP itself meaning it might be hard to make a user facing app - not playing to our strengths. Or potentially hindering other challenges we could link this too. 
 
 ## Helping women succeed financially
 **Eligibility: Must use at least one ATO data set.**
@@ -29,6 +34,10 @@ Other relevant links:
 [Taxation Statistics 2020-21 – Individuals Table 23: Superannuation contributions, by age range, sex and taxable income range, 2020–21 financial year](https://data.gov.au/data/dataset/07b51b39-254a-4177-8b4c-497f17eddb80/resource/280b83d6-909d-4c7c-8482-84c4096f29a3/download/ts21individual23contributionsbyagesextaxableincome.xlsx)
 [Taxation Statistics 2020-21 – Individuals Table 24: Superannuation contributions, by state/territory, sex and age range, 2020–21 financial year](https://data.gov.au/data/dataset/07b51b39-254a-4177-8b4c-497f17eddb80/resource/dcd158c2-1dd9-4fe2-96a9-d6e0b8965f21/download/ts21individual24contributionsbystatesexage.xlsx)
 
+### Notes:
+This challenge we could immendiatly start visualising how we could start going about various solutions, as well how we could go about breaking the data down to understand the problem more, highlight things , and can see various user facing apps that could potentially adress the problem. Also lots of data to go through to really find things that would help close this gap.
+Update: From further discussion and looking at some data, this challenge really spoke to the team and something we felt like we had a handful of ideas for. 
+
 ## Measuring Emissions – Where should we start? Standardising data for tracking, monitoring, and reporting emissions
 Climate change is forcing governments and regulators to enforce stringent norms for businesses to reduce emissions and address environmental risks. There is no standard framework for reporting ESG and climate related risks, leading to non-uniform data. How can this issue be addressed to help organisations better report on their emissions?
 Useful data: 
@@ -41,6 +50,8 @@ Useful data:
 **Eligibility: Must use a least one Australian relevant dataset - combining datasets preferred.**
 How can you showcase data in a creative manner to respond to ESG challenges? How can we present and visualise data to stimulate conversation and promote change?
 [Challenge](https://hackerspace.govhack.org/challenges/best_creative_use_of_data_in_response_to_esg)
+
+
 
 ## Reducing carbon emissions in households
 Build a platform that can help households in New Zealand reduce their carbon emissions. Food production, transportation among others are major contributors of emissions. Can you help New Zealand reach net-zero by 2050 and reduce emissions by 50% by 2030?
@@ -56,8 +67,16 @@ Relevant links:
 • [Sustainable Climate Change](https://sdgs.un.org/goals/goal13)
 • [Infosys - Corporate Responsibility | Environmental](https://www.infosys.com/about/esg/environmental.html)
 
+### Notes: 
+
+The 3 carbon challenges stood out to us and something we could visualise. Looking at these though, we defiently felt like it could be very easy to go over scope and also a space some of us are less familiar overall, hard to play to the strengths or visualse a narrative as part of a solution, at this stage. 
+
 
 ## Generative AI: Unleashing the Power of Open Data
 Explore the potential of Generative AI in conjunction with Open Data to empower communities and foster positive social impact. This challenge invites participants to leverage Generative AI models to analyse and derive insights from Open Data sourced from government datasets. By combining the power of Generative AI with the wealth of Open Data available, participants can create innovative solutions that address real-world challenges and benefit communities.
 **Eligibility: Ethical use of a generative AI in your project and at least one Australian or New Zealand data set**
 [Challenge](https://hackerspace.govhack.org/challenges/generative_ai_unleashing_the_power_of_open_data)
+
+### Notes:
+Would be good to include and very interesting, though its probably hard relating the actual ethical usage to other problems without having a weak solution for both. 
+If just looking at the ethical alone without other problems, not many specifc ideas on what we could do. 
